@@ -47,9 +47,9 @@ Suppose your linear regression model has the following equation:
 
    Y = 3.0 + 2.5X_1 + 1.5X_2
 
-- **Intercept (:math:`\beta_0`)**: `3.0`
-- **Coefficient for :math:`X_1` (:math:`\beta_1`)**: `2.5`
-- **Coefficient for :math:`X_2` (:math:`\beta_2`)**: `1.5`
+- Intercept (:math:`\beta_0`): `3.0`
+- Coefficient for :math:`X_1` (:math:`\beta_1`): `2.5`
+- Coefficient for :math:`X_2` (:math:`\beta_2`): `1.5`
 
 Given the input values :math:`X_1 = 10.0` and :math:`X_2 = 15.0`:
 
